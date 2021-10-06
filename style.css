@@ -13,3 +13,22 @@ nav{
 .food{
     color: #E8AF51;
 }   
+.Menu-bar ul
+{text-align: center;
+    display: inline-flex;
+    list-style: none;
+    color: black;
+}
+.Menu-bar ul li 
+{
+    width: 80px;
+    margin: 15px;
+    padding: 15px;
+    list-style: none;
+    display: inline;
+    padding: 25px;
+    font-size: 17px;
+    position: relative;
+    z-index: 3;
+    
+}
