@@ -3,3 +3,13 @@ nav{
     display: flex;
     overflow: hidden;
 }
+nav{
+    font-family: sans-serif;
+    overflow: hidden;
+}
+.street{
+    color: #6CB840;
+}
+.food{
+    color: #E8AF51;
+}   
