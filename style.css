@@ -2,6 +2,7 @@
 body{
     margin: 0px;
     padding: 0px;
+    overflow-x: hidden;
 }
 .Menu-bar ul
 {text-align: center;
@@ -42,6 +43,15 @@ body{
     height: 700px;
     border-radius: 50%;
     border: 2px dashed #6BB946;
+    position: relative;
+    z-index: 2;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+}
+.star{
+    position: relative;
+    z-index: 2;
 }
 #image1{
     transform: translate(-30px, 270px);
@@ -53,8 +63,18 @@ body{
     transform: translate(230px, 280px);
 }
 #center{
-    transform: translate(-20px, 280px);
+    transform: translate(-20px, 450px);
 }
 #image4{
     transform: translate(310px, 50px);
+}
+#image3{
+    transform: translate(150px, -70px);
+}
+.greencircle{
+    width: 1000px;
+    height: 1000px;
+    border-radius: 50%;
+    background-color: #B8E79C;
+    transform: translate(570px,-1200px);
 }
