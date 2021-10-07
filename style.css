@@ -1,18 +1,8 @@
-nav{
-    background-color: #E5E5E5;
-    display: flex;
-    overflow: hidden;
+
+body{
+    margin: 0px;
+    padding: 0px;
 }
-nav{
-    font-family: sans-serif;
-    overflow: hidden;
-}
-.street{
-    color: #6CB840;
-}
-.food{
-    color: #E8AF51;
-}   
 .Menu-bar ul
 {text-align: center;
     display: inline-flex;
@@ -31,4 +21,40 @@ nav{
     position: relative;
     z-index: 3;
     
+}
+.Menu-bar{
+    background-color: #E5E5E5;
+    overflow: hidden;
+    font-family: sans-serif;
+
+}
+.streetfood,p
+{
+    text-align: left;
+    padding: 20px;
+}
+.txt{
+    display: flex;
+    justify-content: space-around;
+}
+.circle-images{
+    width: 700px;
+    height: 700px;
+    border-radius: 50%;
+    border: 2px dashed #6BB946;
+}
+#image1{
+    transform: translate(-30px, 270px);
+}
+#image2{
+    transform: translate(-28px, 50px);
+}
+#image6{
+    transform: translate(230px, 280px);
+}
+#center{
+    transform: translate(-20px, 280px);
+}
+#image4{
+    transform: translate(310px, 50px);
 }
