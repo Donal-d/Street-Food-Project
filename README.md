@@ -1,16 +1,32 @@
 # Street-Food-Project
-<h1 align="center">Hi 👋, I'm Donald Ochieng</h1>
-<h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on **website application**
+#### Donald Ochieng
 
-- 🌱 I’m currently learning **css, html and javascript**
+## Table of content
+* Description
+* Installation requirement
+* Technology used
+* Reference
+* Licence
+* Author's Info
 
-- ⚡ Fun fact **I love coding**
+## Description
+This is a website about a streetfood meeting joint. 
 
+## Link to live site
+*  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+## Installation 
+### Requirement
+* Access to the internet
+* Either a computer, tablet, or smartphone.
+### Technology used
+* HTML - which was used to build the structure of the pages
+* CSS - which was used to style the pages.
+
+## Reference
+* Materialize CSS
+## Licence
 MIT License
 
 Copyright (c) [2021] [Donald Otieno]
