@@ -16,7 +16,8 @@ This is a website about a streetfood meeting joint.
 ## Link to live site
 https://donal-d.github.io/Street-Food-Project/
 
-## Installation 
+## Installation
+Clone the project from the repository then run index file on any of the browser.
 ### Requirement
 * Access to the internet
 * Either a computer, tablet, or smartphone.
